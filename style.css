@@ -232,6 +232,9 @@ body {
 
   #article-1 {
     grid-column: span 2 / span 2;
+    background-image: url(images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: right 4rem top;
   }
 
   #article-2 {
