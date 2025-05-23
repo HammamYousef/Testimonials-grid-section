@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/testimonials-grid-section-flex-grid-zSZ8bIULdg
 - Live Site URL: https://hammamyousef.github.io/Testimonials-grid-section/
 
 ## My process
